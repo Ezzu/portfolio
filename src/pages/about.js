@@ -24,7 +24,7 @@ const about = () => {
             <div className='col-span-3 flex flex-col items-start justify-start xl:col-span-4 md:order-2 md:col-span-8'>
               <h2 className='mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75'>Biography</h2>
               <p className='font-medium'>
-                I’m a Full Stack Engineer with 6 years of experience, primarily working with startups in hospitality, e-commerce, and talent acquisition. I specialize in Ruby on Rails, React.js, and Node.js, building scalable applications and deploying them on AWS and Heroku.
+                I’m a Full Stack Engineer with 7+ years of experience, primarily working with startups in the domains of hospitality, e-commerce, entertainment and talent acquisition. I specialize in Ruby on Rails, React.js, Flask and Node.js, building scalable applications and deploying them on AWS, GCP and Heroku.
               </p>
               <p className='my-4 font-medium'>
                 While Ruby on Rails remains my primary expertise, I’ve also worked extensively with JavaScript frameworks like AngularJS, ReactJS, and NodeJS. Beyond monolithic architectures, I’ve contributed to microservices-based projects, using Ruby or Node.js or Python AWS Lambda, and services like Sinatra, Lumen, and Crystal, deployed independently for optimal performance. I’m known for solving complex business challenges, ownership, adaptability, and dedication.
@@ -59,7 +59,7 @@ const about = () => {
               </div>
               <div className='flex flex-col items-end justify-center xl:items-center'>
                 <span className='inline-block text-7xl font-bold md:text-6xl sm:text-5xl xs:text-4xl'>
-                  <AnimatedNumbers value={6} />+
+                  <AnimatedNumbers value={7} />+
                 </span>
                 <h2 className='text-xl font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm'>
                   years of experience
